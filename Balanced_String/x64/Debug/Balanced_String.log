@@ -1,0 +1,3 @@
+﻿  Balanced_String.cpp
+C:\Users\SNORLAX\exercises\Balanced_String\Balanced_String.cpp(33,9): warning C4101: “x”: 未引用的局部变量
+  Balanced_String.vcxproj -> C:\Users\SNORLAX\exercises\Balanced_String\x64\Debug\Balanced_String.exe

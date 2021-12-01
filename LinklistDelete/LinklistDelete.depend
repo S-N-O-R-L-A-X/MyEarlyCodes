@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585275103 source:c:\users\snorlax\exercises\linklistdelete\main.cpp
+	<iostream>
+	<stdio.h>
+

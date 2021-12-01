@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585184663 source:c:\users\snorlax\exercises\cs02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

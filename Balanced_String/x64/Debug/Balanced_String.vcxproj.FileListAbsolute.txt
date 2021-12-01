@@ -1,0 +1,2 @@
+C:\Users\SNORLAX\exercises\Balanced_String\x64\Debug\Balanced_String.exe
+C:\Users\SNORLAX\exercises\Balanced_String\x64\Debug\Balanced_String.pdb

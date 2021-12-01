@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576482456 source:c:\users\snorlax\exercises\hqf_sequenceofwords\main.c
+	<stdio.h>
+	<string.h>
+

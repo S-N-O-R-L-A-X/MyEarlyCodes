@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575378685 source:c:\users\snorlax\exercises\univocalic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

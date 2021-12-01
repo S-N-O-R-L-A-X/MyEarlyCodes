@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588574421 source:c:\users\snorlax\exercises\binarysearch\main.cpp
+	<iostream>
+	<list>
+

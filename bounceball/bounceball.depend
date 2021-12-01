@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571647098 source:c:\users\snorlax\exercises\bounceball\main.c
+	<stdio.h>
+	<stdlib.h>
+

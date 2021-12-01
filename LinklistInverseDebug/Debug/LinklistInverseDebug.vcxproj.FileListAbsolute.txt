@@ -1,0 +1,2 @@
+C:\Users\SNORLAX\exercises\LinklistInverseDebug\Debug\LinklistInverseDebug.exe
+C:\Users\SNORLAX\exercises\LinklistInverseDebug\Debug\LinklistInverseDebug.pdb

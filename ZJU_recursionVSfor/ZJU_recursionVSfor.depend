@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581835602 source:c:\users\snorlax\exercises\zju_recursionvsfor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+

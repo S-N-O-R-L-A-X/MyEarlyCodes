@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570583798 source:e:\code\fomr\main.c
+	<stdio.h>
+	<stdlib.h>
+

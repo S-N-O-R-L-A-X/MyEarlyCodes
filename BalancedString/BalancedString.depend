@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1584973216 source:c:\users\snorlax\exercises\balancedstring\main.cpp
+	<iostream>
+	<string>
+

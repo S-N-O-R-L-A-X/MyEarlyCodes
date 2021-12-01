@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574169571 source:c:\users\snorlax\exercises\array_sumofdata\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

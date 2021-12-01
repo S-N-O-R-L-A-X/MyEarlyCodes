@@ -1,0 +1,2 @@
+C:\Users\SNORLAX\exercises\Deque\Debug\Deque.exe
+C:\Users\SNORLAX\exercises\Deque\Debug\Deque.pdb

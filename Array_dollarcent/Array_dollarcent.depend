@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574350581 source:c:\users\snorlax\exercises\array_dollarcent\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

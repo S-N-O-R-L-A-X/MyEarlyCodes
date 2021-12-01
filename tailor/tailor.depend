@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575805289 source:c:\users\snorlax\exercises\tailor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

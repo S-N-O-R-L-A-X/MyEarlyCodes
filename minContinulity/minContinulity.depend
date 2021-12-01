@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574667324 source:c:\users\snorlax\exercises\mincontinulity\main.c
+	<stdio.h>
+	<stdlib.h>
+

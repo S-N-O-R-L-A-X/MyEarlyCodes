@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583313114 source:c:\users\snorlax\exercises\magic square\main.c
+	<stdio.h>
+	<stdlib.h>
+

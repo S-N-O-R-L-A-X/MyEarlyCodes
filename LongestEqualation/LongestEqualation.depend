@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574605907 source:c:\users\snorlax\exercises\longestequalation\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570453159 source:c:\users\snorlax\exercises\eliminate,\main.c
+	<stdio.h>
+	<stdlib.h>
+

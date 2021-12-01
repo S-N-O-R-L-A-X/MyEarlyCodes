@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590570432 source:c:\users\snorlax\exercises\hashmap\main.cpp
+	<iostream>
+	<string>
+

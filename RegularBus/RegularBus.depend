@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576591191 source:c:\users\snorlax\exercises\regularbus\main.c
+	<stdio.h>
+	<stdlib.h>
+

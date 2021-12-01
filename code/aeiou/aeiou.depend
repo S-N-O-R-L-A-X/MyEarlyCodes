@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571187548 source:e:\code\aeiou\main.c
+	<stdio.h>
+	<stdlib.h>
+

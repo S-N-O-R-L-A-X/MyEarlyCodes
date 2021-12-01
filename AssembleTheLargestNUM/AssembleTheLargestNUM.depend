@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589349228 source:c:\users\snorlax\exercises\assemblethelargestnum\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<string>
+	<string.h>
+

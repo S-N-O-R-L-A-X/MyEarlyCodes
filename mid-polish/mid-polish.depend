@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584803108 source:c:\users\snorlax\exercises\mid-polish\main.cpp
+	<iostream>
+	<stack>
+	<stdio.h>
+	<ctype.h>
+	<string>
+	<stdlib.h>
+

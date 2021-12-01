@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584329577 source:c:\users\snorlax\exercises\postfixpolish\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1584425609 source:c:\users\snorlax\exercises\postfixpolish\main.cpp
+	<iostream>
+

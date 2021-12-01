@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570584351 source:e:\code\getbits\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590480894 source:c:\users\snorlax\exercises\thelongestsubstring\main.cpp
+	<iostream>
+	<string>
+

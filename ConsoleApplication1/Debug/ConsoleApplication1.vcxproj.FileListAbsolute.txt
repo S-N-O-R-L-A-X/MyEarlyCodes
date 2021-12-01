@@ -1,0 +1,2 @@
+C:\Users\SNORLAX\exercises\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\SNORLAX\exercises\ConsoleApplication1\Debug\ConsoleApplication1.pdb

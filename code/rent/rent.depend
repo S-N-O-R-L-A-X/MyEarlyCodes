@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569373007 source:e:\code\rent\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

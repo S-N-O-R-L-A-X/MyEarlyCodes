@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1572794857 source:c:\users\snorlax\exercises\test004\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1594444379 source:c:\users\snorlax\exercises\test004\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+

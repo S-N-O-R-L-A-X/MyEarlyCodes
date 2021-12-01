@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571186425 source:e:\code\sgnx\main.c
+	<stdio.h>
+	<stdlib.h>
+

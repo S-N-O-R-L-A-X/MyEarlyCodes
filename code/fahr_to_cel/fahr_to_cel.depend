@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569371980 source:e:\code\fahr_to_cel\main.c
+	<stdio.h>
+	<stdlib.h>
+

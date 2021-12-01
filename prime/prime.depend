@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592385141 source:c:\users\snorlax\exercises\prime\main.cpp
+	<iostream>
+	<cstdio>
+	<time.h>
+

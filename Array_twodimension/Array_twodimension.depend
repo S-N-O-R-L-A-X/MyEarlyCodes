@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574174646 source:c:\users\snorlax\exercises\array_twodimension\main.c
+	<stdio.h>
+	<stdlib.h>
+

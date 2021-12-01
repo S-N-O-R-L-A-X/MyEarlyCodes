@@ -1,0 +1,2 @@
+C:\Users\SNORLAX\exercises\JosephDEBUG\Debug\JosephDEBUG.exe
+C:\Users\SNORLAX\exercises\JosephDEBUG\Debug\JosephDEBUG.pdb

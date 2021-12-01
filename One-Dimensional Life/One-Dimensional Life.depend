@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583325856 source:c:\users\snorlax\exercises\one-dimensional life\main.c
+	<stdio.h>
+	<stdlib.h>
+

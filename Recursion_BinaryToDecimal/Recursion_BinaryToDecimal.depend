@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586522367 source:c:\users\snorlax\exercises\recursion_binarytodecimal\main.cpp
+	<iostream>
+	<stdio.h>
+

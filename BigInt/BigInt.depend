@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588160851 source:c:\users\snorlax\exercises\bigint\main.cpp
+	<iostream>
+	<string>
+
